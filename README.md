@@ -24,17 +24,7 @@
  <img align="left" alt="lipe-linux" width="26" src="https://camo.githubusercontent.com/5827f82f2c2d9c5bad33de64e073659d1a57032b31009b8127189be6876916d4/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6c696e75782f6c696e75782d6f726967696e616c2e737667">
 <br>
 <br>
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Anna's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=arsentieva&show_icons=true&hide_border=true" />
-
-</details>
-
-<details>
-  <summary>:zap: Most Used Languages</summary>
-
-<img align="left" alt="Anna's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arsentieva" />
-
-</details>
+<div>
+<img align="left" alt="Lucas GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Lukasbn&show_icons=true&hide_border=true" />
+<img align="left" alt="Lucas GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lukasbn&show_icons=true&hide_border=true" />
+</div>
