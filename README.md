@@ -6,7 +6,7 @@
 
 </div>
 
-- 📈 Formado em técnico de Edificções pela FAETEC
+- 📈 Formação técnica em Edificções pela FAETEC
 - ✏️ Cursando Engenharia Civil na UFRJ 
 - 🌱 Atualmente estou estudando Desenvolvimento Full Stack
 - 📫 Contato: lubentoneves@gmail.com
